@@ -3,7 +3,7 @@
         "Ageo\\GedknowingsBundle\\GedknowingsBundle": ["all"]
     },
     "copy-from-recipe": {
-        "config/": "%CONFIG_DIR%/"
+        "Config/": "%CONFIG_DIR%/"
     },
     "env": {
         "urlGed": "http://srvged:8080/wapi-ged/v2/",
