@@ -1,0 +1,16 @@
+{
+    "bundles": {
+        "Ageo\\GedknowingsBundle\\GedknowingsBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "env": {
+        "urlGed": "http://srvged:8080/wapi-ged/v2/",
+        "urlAlfresco": "http://srvged:8080/alfresco/s/knowings/pgec/",
+        "organizationContainer": "c971a2cb-e605-4438-8313-34587470dc49",
+        "username": "qualification",
+        "password": "EPJIpcgEJtCHE8FP.admin$"
+    },
+    "aliases": ["ageo-gedknowings", "gedknowings", "gedknowings-bundle"]
+}

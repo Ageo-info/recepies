@@ -1,0 +1,6 @@
+gedknowings:
+  urlGed: "%env(urlGed)%"
+  urlAlfresco: "%env(urlAlfresco)%"
+  organizationContainer: "%env(organizationContainer)%"
+  username: "%env(username)%"
+  password: "%env(password)%"
